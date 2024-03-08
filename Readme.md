@@ -8,12 +8,12 @@ Users can search for recipes by entering a query term, and the app will display 
 
 1.Clone the repository
 
-2. cd Recipeapp
+2.Make virtual enivornment
 
-4.Make virtual enivornment
+3. cd Recipeapp
 
-3.pip install Flask requests python-dotenv
+4.pip install Flask requests python-dotenv
 
-4.Make a .env file and add API_KEY to it you can get your on api key by sign in to spoonacular api 
+5.Make a .env file and add API_KEY to it you can get your on api key by sign in to spoonacular api 
 
-4.python app.py
+6.python app.py
