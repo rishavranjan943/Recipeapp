@@ -8,7 +8,7 @@ Users can search for recipes by entering a query term, and the app will display 
 
 1.Clone the repository
 
-2. cd recipeapp
+2. cd Recipeapp
 
 4.Make virtual enivornment
 
